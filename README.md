@@ -1,4 +1,4 @@
-# Animate Your Ideas!
+# Animate Your Ideas! - Hosted at anipanel.streamlit.app
 
 Easily create stunning animations from a sequence of images using this Streamlit-based tool.
 
